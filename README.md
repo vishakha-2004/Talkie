@@ -1,11 +1,11 @@
 <h2>Setup Instructions</h2>
 
 <h3>1. Clone the Repository</h2>
-<p><strong>Step:</strong> Clone the project to your local machine using:</p>
+<p>Clone the project to your local machine using:</p>
 <p><code>git clone https://github.com/your-username/talkie.git</code></p>
 
 <h3>2. Install Dependencies</h3>
-<p><strong>Step:</strong> Run <code>flutter pub get</code> to install all required packages.</p>
+<p> Run <code>flutter pub get</code> to install all required packages.</p>
 
 <h3>3. Configure Firebase</h3>
 <ul>
